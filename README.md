@@ -29,7 +29,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 😎 𝐀𝐆𝐄:- 18
+- 😎 𝐀𝐆𝐄:- 20
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -49,11 +49,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [𝐌𝐃 𝐙𝐀𝐇𝐈𝐃𝐔𝐋 𝐈𝐒𝐋𝐀𝐌](https://www.facebook.com/zihad.hossain36)
+- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [ERROR](https://www.facebook.com/EXerror)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📱𝐘𝐎𝐔𝐓𝐔𝐁𝐄:- [𝐓𝐄𝐂𝐇𝐍𝐈𝐂𝐀𝐋 𝐙𝐈𝐇𝐀𝐃](https://youtube.com/channel/UCHjWhH9orDaDLqPAUBrl6uQ)
+- 📱𝐘𝐎𝐔𝐓𝐔𝐁𝐄:- [HIDDEN](https://youtube.com/channel/UCHjWhH9orDaDLqPrl6uQ)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
