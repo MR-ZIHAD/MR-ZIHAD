@@ -1,111 +1,158 @@
-<p align="center"><img src="https://img.shields.io/badge/I%20AM BANGLADESHI-E.HACKER AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<div align="center">
 
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; Welcome to MR-ZIHAD profile &nbsp;
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-</h3>
+<!-- HEADER - name clearly visible, no pill shape -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:3d0068,70:7b2fff,100:ff0080&height=220&section=header&text=ZIHAD%20HOSSAIN%20RAFI&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%E2%98%A0%EF%B8%8F%20Ethical%20Hacker%20%7C%20Security%20Researcher%20%7C%20Programmer%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descSize=15&descColor=d9b8ff&descAlignY=62"/>
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<!-- TYPING -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=700&color=BF5FFF&center=true&vCenter=true&width=700&lines=%E2%98%A0%EF%B8%8F+Ethical+Hacker+%26+Security+Researcher;%F0%9F%94%90+Web+Application+Penetration+Tester;%F0%9F%8E%AF+Bug+Bounty+Hunter;%F0%9F%9B%A1%EF%B8%8F+Responsible+Vulnerability+Disclosure;%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%A1+Learning+%E2%80%A2+Breaking+%E2%80%A2+Building" alt="Typing SVG"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+am+Zihad+Hossain+Rafi;+But+It's+Not+A+Just+Name+Broh;It's+A+Brand;Thanks+A+Lots+Everyone+LvUall)](https://git.io/typing-svg)
+<br/>
 
-</p>
+<!-- STATUS BADGES -->
+![](https://img.shields.io/badge/🟢_STATUS-ONLINE_%26_HUNTING-7b2fff?style=for-the-badge&labelColor=0d0221)
+![](https://img.shields.io/badge/📍_LOCATION-BANGLADESH_🇧🇩-ff0080?style=for-the-badge&labelColor=0d0221)
+[![Profile Views](https://komarev.com/ghpvc/?username=MR-ZIHAD&label=👁️+VIEWS&color=bf5fff&style=for-the-badge&labelColor=0d0221)](https://github.com/MR-ZIHAD)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+</div>
 
-<h3 align="center">A passionate frontend programmer from Bangladesh</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-ZIHAD&label=Profile%20views&color=eb4d3d&style=flat-square" alt="MR-ZIHHD" /> </p>
-</i></b></h3>
+### `> whoami`
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/MR-ZIHAD"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MR-ZIHAD&theme=monoai"></a>
+<img align="right" width="260" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
 
+```bash
+$ cat /etc/passwd | grep zihad
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+Name     : Zihad Hossain Rafi
+Username : MR-ZIHAD
+Country  : Bangladesh 🇧🇩
+Role     : Ethical Hacker & Security Researcher
+Focus    : Web Application Security
+Passion  : Bug Bounty + Responsible Disclosure
+Stack    : Full Stack Developer
+Access   : AUTHORIZED ONLY 
+```
 
-- 😏 𝐍𝐀𝐌𝐄:- 𝐙𝐈𝐇𝐀𝐃 𝐇𝐎𝐒𝐒𝐀𝐈𝐍 𝐑𝐀𝐅𝐈
+<br clear="right"/>
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+---
 
-- 😎 𝐀𝐆𝐄:- 20
+### `> cat cybersecurity_skills.txt`
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<div align="center">
 
-- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- 𝐃𝐈𝐏𝐋𝐎𝐌𝐀 𝐈𝐍 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑𝐈𝐍𝐆
+| 🔴 Attack Surface | 🟣 Techniques | 🔵 Tools | 🟢 Methodology |
+|:---:|:---:|:---:|:---:|
+| XSS | Recon & OSINT | Burp Suite | Responsible Disclosure |
+| SQL Injection | Subdomain Enum | Nmap | Ethical Testing Only |
+| CSRF / SSRF | Directory Fuzzing | ffuf / dirsearch | Authorized Systems |
+| Auth Bypass | Dorking | Nuclei / Amass | Bug Bounty Platforms |
+| IDOR | Parameter Tampering | SQLMap | CVE Research |
+| RCE / LFI | Source Code Review | Subfinder | PoC Documentation |
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+</div>
 
-- ❤ 𝐋𝐎𝐕𝐄𝐑:- 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐈𝐍𝐆
+---
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+### `> ls ~/tech_stack/`
 
-- 👉 𝐈𝐍𝐒𝐋𝐈𝐑𝐀𝐓𝐈𝐎𝐍:- 𝐌𝐘𝐒𝐄𝐋𝐅
+<div align="center">
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+**[ Languages ]**
 
-- 🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- 𝐈𝐒𝐋𝐀𝐌
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+**[ Frontend ]**
 
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [ERROR](https://www.facebook.com/EXerror)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+**[ Backend & DB ]**
 
-- 📱𝐘𝐎𝐔𝐓𝐔𝐁𝐄:- [HIDDEN](https://youtube.com/channel/UCHjWhH9orDaDLqPrl6uQ)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+**[ Security & Environment ]**
 
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝐌𝐑-𝐙𝐈𝐇𝐀𝐃](https://github.com/MR-ZIHAD)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+</div>
 
-- ⚡ Fun fact **I think I am smoth**
+---
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+### `> github --stats`
 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i>👆👆 Connect With Me👆👆 </i></h2>
+<div align="center">
 
-### ⚙️ &nbsp; Language & programming
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MR-ZIHAD&show_icons=true&bg_color=0d0221&title_color=bf5fff&icon_color=ff0080&text_color=d9b8ff&border_color=7b2fff&border_radius=10&ring_color=ff0080&include_all_commits=true&count_private=true&hide_border=false"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ZIHAD&layout=compact&bg_color=0d0221&title_color=ff0080&text_color=d9b8ff&border_color=7b2fff&border_radius=10&hide_border=false"/>
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img src="https://streak-stats.demolab.com?user=MR-ZIHAD&background=0d0221&ring=bf5fff&fire=ff0080&currStreakLabel=00cfff&sideLabels=d9b8ff&dates=ffffff&border=7b2fff&border_radius=10&hide_border=false" height="165"/>
 
-<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack :</i></h2>
+</div>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
+---
 
-<table border="1">
-  <tr>
-    <td valign="top"><a href="https://github.com/MR-ZIHAD/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MR-ZIHAD&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="ZIHAD HOSSAIN RAFI'S GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/MR-ZIHAD/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-ZIHAD&layout=compact&langs_count=10" alt ="Top Languages"/></td>
-    </a>
-  </tr>
-   <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=MR-ZIHAD&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="RAFI's GitHub Readme Streak Stats"/> </a>  </td> 
-    
-  </tr>
-</table>
-<br>
+### `> cat ethical_code.py`
 
-### Profile Visitors
+```python
+class EthicalHacker:
 
-![Visitor Count](https://profile-counter.glitch.me/MR-ZIHAD/count.svg)
+    def __init__(self):
+        self.name    = "Zihad Hossain Rafi"
+        self.country = "Bangladesh 🇧🇩"
+        self.rules   = [
+            "  Test ONLY authorized systems",
+            "  Respect user privacy & data at all times",
+            "  Disclose vulnerabilities responsibly",
+            "   Ethics over everything — always",
+            "  Make the digital world safer",
+        ]
 
-- ![Profile views](https://gpvc.arturio.dev/MR-ZIHAD)
-- [![GitHub followers](https://img.shields.io/github/followers/MR-ZIHAD.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/MR-ZIHAD?tab=followers)
+    def hack(self, target):
+        if not target.is_authorized():
+            raise PermissionError(" Not my style.")
+        vulns = self.find_vulnerabilities(target)
+        self.report(vulns)   # responsible disclosure
+        return vulns
 
-![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
+me = EthicalHacker()
+print(f"[+] {me.name} — Root access to knowledge, not systems.")
+# [+] Zihad Hossain Rafi — Root access to knowledge, not systems.
+```
+
+---
+
+<div align="center">
+
+### `> ./connect.sh`
+
+<a href="https://github.com/MR-ZIHAD">
+  <img src="https://img.shields.io/badge/GitHub-MR--ZIHAD-bf5fff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221"/>
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@zihad_hossain_rafi">
+  <img src="https://img.shields.io/badge/YouTube-@zihad__hossain__rafi-ff0080?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d0221"/>
+</a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7b2fff,100:0d0221&height=120&section=footer&text=Think+Ethically.+Hack+Responsibly.+Build+Securely.&fontSize=15&fontColor=d9b8ff&animation=fadeIn&fontAlignY=72"/>
+
+</div>
